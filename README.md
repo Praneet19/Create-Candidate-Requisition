@@ -3,13 +3,13 @@
 
 Tools used:
 
-Next.js
-Formik
-Yup
-Framer Motion
-Chakra UI
-Typescript
-Material-UI
+[ Next.js, 
+Formik, 
+Yup, 
+Framer Motion, 
+Chakra UI, 
+Typescript, 
+Material-UI, ]
 
 
 Getting Started
