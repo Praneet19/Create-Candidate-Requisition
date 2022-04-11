@@ -2,7 +2,7 @@
   "name": "youtube-2020-june-multi-step-form-formik",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Praneet19/Create-Candidate-Requisition.git",
+  "homepage": "https://github.com/Praneet19/CRA.git",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
